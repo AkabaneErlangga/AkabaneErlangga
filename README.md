@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Find me : 
-[![My Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev@akabane.my.id)](mailto:dev@akabane.my.id)
+[![My Mail](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&link=mailto:dev@akabane.my.id)](mailto:dev@akabane.my.id)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
